@@ -59,3 +59,14 @@ body{
    font-weight: bolder;
    font-size: large;
 }
+.mypic{
+    width:  600px;
+    height: 400px;
+    background-color: rgb(6, 38, 38);
+    margin-left:400px;
+
+}
+.divss{
+    display: flex;
+    flex-direction: row;
+}
