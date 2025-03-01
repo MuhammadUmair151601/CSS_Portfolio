@@ -70,3 +70,8 @@ body{
     display: flex;
     flex-direction: row;
 }
+.twomoredivs{
+    color: aqua;
+    display: flex;
+  
+}
