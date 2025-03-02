@@ -161,3 +161,6 @@ body{
     font-weight: bolder;
     font-size: large;
 }
+.info{
+    display: flex;
+}
