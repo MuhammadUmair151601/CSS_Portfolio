@@ -115,3 +115,27 @@ body{
     margin-left: 130px;
     text-align: justify;
 }
+.fourdivs{
+    display: flex;
+    color: aqua;
+}
+.member{
+    text-align: justify;
+    margin-left: 20px;
+    height: 400px;
+    line-height: 1.9;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: large;
+}
+.head{
+    background-color: aqua;
+    color: rgb(6, 38, 38);
+    font-family: serif;
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+}
+.det{
+    margin-top: 20px;
+}
