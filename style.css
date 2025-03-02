@@ -19,8 +19,9 @@ body{
     flex-direction: row;
     margin-left: 5px;
 }
-.info{
+.info a{
     padding-left: 45px;
+    color: aqua;
 }
 .logo{
     display: flex;
@@ -143,24 +144,20 @@ body{
 .det{
     margin-top: 20px;
 }
-.cont{
+hr{
+    width: 1400px;
+    border-color: aqua;
+}
+.cont {
     display: flex;
-    color: white;
+    flex-direction: column;
+    color:  rgb(6, 38, 38);
     height: 400px;
     width: 1404px;
-    border: 1px solid aqua;
     margin-top: 10px;
-}
-.contactus{
     background-color: aqua;
-    color:  rgb(6, 38, 38);
-    height: 30px;
-    width: 100%;
-    text-align: center;
     font-family: serif;
     font-weight: bolder;
     font-size: large;
-}
-.info{
-    display: flex;
+    text-align: center;
 }
