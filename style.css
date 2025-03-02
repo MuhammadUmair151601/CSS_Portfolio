@@ -29,7 +29,7 @@ body{
    font-weight: bold;
 }
 .myself{
-    width:  600px;
+    width:  700px;
     height: 400px;
     background-color: rgb(6, 38, 38);
     margin-top: 150px;
@@ -41,6 +41,7 @@ body{
     justify-content: center;
     text-align: center;
     margin-top: 40px;
+    margin-left: 40px;
     color: aqua;
     font-family: serif;
     font-size: larger;
@@ -82,18 +83,20 @@ body{
     text-align: center;
     font-family: serif;
     font-weight: bolder;
-    font-size: large;
+    font-size: larger;
     height: 400px;
     width: 500px;
+    line-height: 1.9;
 }
 .proj2{
     text-align: center;
     font-family: serif;
     font-weight: bolder;
-    font-size: large;
+    font-size: larger;
     height: 400px;
     width: 700px;
     margin-left: 100px;
+    line-height: 1.9;
 }
 .heading1{
     background-color:aqua;
@@ -135,7 +138,26 @@ body{
     font-weight: bolder;
     font-size: large;
     text-align: center;
+    border-radius: 5px;
 }
 .det{
     margin-top: 20px;
+}
+.cont{
+    display: flex;
+    color: white;
+    height: 400px;
+    width: 1404px;
+    border: 1px solid aqua;
+    margin-top: 10px;
+}
+.contactus{
+    background-color: aqua;
+    color:  rgb(6, 38, 38);
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: large;
 }
