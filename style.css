@@ -39,7 +39,7 @@ body{
 .myself{
     width:  700px;
     height: 400px;
-    background-color: rgb(6, 38, 38);
+    background-color:  rgb(103, 115, 115);
     margin-top: 150px;
     display: flex;
     flex-direction: column;
@@ -50,7 +50,7 @@ body{
     text-align: center;
     margin-top: 40px;
     margin-left: 40px;
-    color: aqua;
+    color: rgb(242, 247, 247);
     font-family: serif;
     font-size: larger;
     font-weight: bolder;
@@ -63,19 +63,20 @@ body{
    padding-left: 20px;
    padding-right: 20px;
    margin-left: 240px;
-   background-color: aqua;
+   background-color:rgb(78, 78, 100);
    font-family: serif;
    font-weight: bolder;
    font-size: large;
+   color: white;
 }
 .btn:hover{
-    background-color: rgb(52, 194, 194);
+    background-color: rgb(147, 154, 154);
     cursor: pointer;
 }
 .mypic{
     width:  600px;
     height: 400px;
-    background-color: rgb(6, 38, 38);
+    background-color: rgb(103, 115, 115);
     margin-left:400px;
 
 }
@@ -113,7 +114,7 @@ body{
     margin-left: -90px;
 }
 .heading2{
-    background-color:aqua;
+    background-color: rgb(103, 115, 115);
     color: rgb(6, 38, 38);
     width: 800px;
 }
@@ -140,8 +141,8 @@ body{
     font-size: large;
 }
 .head{
-    background-color: aqua;
-    color: rgb(6, 38, 38);
+    background-color: rgb(78, 78, 100);
+    color: rgb(244, 247, 247);
     font-family: serif;
     font-weight: bolder;
     font-size: large;
@@ -162,7 +163,7 @@ hr{
     height: 400px;
     width: 1404px;
     margin-top: 10px;
-    background-color: aqua;
+    background-color:  rgb(103, 115, 115);
     font-family: serif;
     font-weight: bolder;
     font-size: large;
