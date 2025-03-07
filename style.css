@@ -140,11 +140,13 @@ body{
 .member{
     text-align: justify;
     margin-left: 20px;
-    height: 400px;
-    line-height: 1.9;
+    height: 450px;
+    line-height: 1.6;
     font-family: serif;
     font-weight: bolder;
     font-size: large;
+    background-color: rgb(90, 90, 110);
+    border-radius: 7px;
 }
 .head{
     background-color: rgb(78, 78, 100);
@@ -157,6 +159,7 @@ body{
 }
 .det{
     margin-top: 20px;
+    
 }
 
 .cont {
@@ -182,5 +185,9 @@ body{
     flex-direction: row;
     height: 400px;
     width: 400px;
-    border: 1px solid black;
+    text-align: justify;
+
+}
+.reachus p{
+    margin-top: 30px;
 }
