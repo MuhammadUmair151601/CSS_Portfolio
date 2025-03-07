@@ -58,13 +58,14 @@ body{
     font-weight: bolder;
     margin-bottom: 25px;
     line-height: 1.9;
+    font-size: 25px;
 }
 .btn{
    border-radius: 5px;
    width: 100px;
    padding-left: 20px;
    padding-right: 20px;
-   margin-left: 240px;
+   margin-left: 180px;
    background-color:rgb(78, 78, 100);
    font-family: serif;
    font-weight: bolder;
