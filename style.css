@@ -10,21 +10,26 @@ body{
 .navigation{
     display: flex;
     justify-content: center;
-    justify-content: space-between;
-    background-color: rgb(3, 3, 31);
+    margin: 2px;
+    background-color: rgb(72, 72, 83);
     padding: 15px 15px;
 }
 .navs{
     display: flex;
     flex-direction: row;
     margin-left: 5px;
+    
 }
 .info a{
     padding-left: 45px;
     color: aqua;
+    
+}
+.navs li{
+    list-style: none;
+    text-decoration: none;
 }
 .logo{
-    display: flex;
     color: aqua;
    font-family: serif;
    font-weight: bold;
