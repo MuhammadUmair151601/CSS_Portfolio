@@ -160,6 +160,8 @@ body{
 }
 
 .cont {
+    display: flex;
+    gap: 50px;
     color:  rgb(249, 251, 251);
     height: 400px;
     width: 1404px;
@@ -175,4 +177,10 @@ body{
 }
 .contactus a{
     color: white;
+}
+.reachus{
+    flex-direction: row;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
 }
