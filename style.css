@@ -5,34 +5,36 @@
     font-family: Arial, sans-serif;
 }
 body{
-    background-color: rgb(6, 38, 38);
+    background-color: rgb(103, 115, 115);
+    width: 100%;
 }
 .navigation{
     display: flex;
     justify-content: center;
     margin: 2px;
-    background-color: rgb(72, 72, 83);
+    background-color: rgb(78, 78, 100);
     padding: 15px 15px;
 }
 .navs{
     display: flex;
     flex-direction: row;
-    margin-left: 5px;
-    
+    margin-left: 400px;
 }
 .info a{
     padding-left: 45px;
-    color: aqua;
-    
+   color: white;
+   font-size: 15px;
+   font-weight: bold;
 }
 .navs li{
     list-style: none;
     text-decoration: none;
 }
 .logo{
-    color: aqua;
+   color: white;
    font-family: serif;
    font-weight: bold;
+   font-size: 20px;
 }
 .myself{
     width:  700px;
