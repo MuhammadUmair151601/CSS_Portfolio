@@ -16,6 +16,7 @@ body{
     background-color: rgb(78, 78, 100);
     padding: 15px 15px;
     width: 100%;
+    position: fixed;
 }
 .navs{
     display: flex;
@@ -27,6 +28,7 @@ body{
    color: white;
    font-size: 15px;
    font-weight: bold;
+   text-decoration: none;
 }
 .navs li{
     list-style: none;
@@ -81,7 +83,7 @@ body{
     height: 400px;
     background-color: rgb(103, 115, 115);
     margin-left:400px;
-
+    margin-top: 40px;
 }
 .divss{
     display: flex;
